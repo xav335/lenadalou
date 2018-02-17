@@ -27,7 +27,7 @@ if (!empty($_GET)){
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Allée du Bio : <?php echo $result[0]['catlabel']?></title>
+	<title>Le Nadalou : <?php echo $result[0]['catlabel']?></title>
 	<meta name="description" content="consultez nos produits: <?php echo $result[0]['catlabel']?>" />
 	<meta name="keywords" content="Alimentation, cosmétiques, légumes bio, fruits bio, épicerie, légumes bio, complément alimentaire, elixir floral, huile essencielle, huile végétale, huile florale, pain, pains, plante médicinale, propolis" />
 <?php include('inc/meta.php'); ?>

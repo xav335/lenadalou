@@ -27,9 +27,9 @@ if ($_POST["action"] == "sendMail") {
 		exit();
 	}
 
-	$_to = "contact@alleedubio.fr";
-	//$_to = "fjavi.gonzalez@gmail.com";
-	$sujet = "Allée du bio - Contact Site";
+	//$_to = "contact@gite-lenadalou.com";
+	$_to = "fjavi.gonzalez@gmail.com";
+	$sujet = "Le Nadalou - Contact Site";
 	//echo "Envoi du message à " . $_to . "<br>";
 		
 	$entete = "From:" . $_POST[ "nom" ] . " <" .  $_POST[ "email" ] . ">\n";

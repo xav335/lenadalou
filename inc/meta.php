@@ -2,7 +2,7 @@
 	<meta name="msvalidate.01" content="0F652D91935F25317C22102440B50132" />
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="apple-mobile-web-app-title" content="Allée du Bio" />
+	<meta name="apple-mobile-web-app-title" content="Le Nadalou" />
 	
 	<meta name="Content-Language" content="fr">
 	<meta name="publisher" content="iconeo.fr">

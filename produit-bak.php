@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Allée du Bio | Produit</title>
+	<title>Le Nadalou | Produit</title>
 <?php include('inc/meta.php'); ?>
 </head>
 <body>

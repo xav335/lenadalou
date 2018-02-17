@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Allée du Bio:Espace détente et bien être à Saint Sulpice et Cameyrac près de Bordeaux (33)</title>
+	<title>Le Nadalou:Espace détente et bien être à Saint Sulpice et Cameyrac près de Bordeaux (33)</title>
 	<meta name="description" content="Profiter de notre espace détente et bien être avec des massages et de al médecine chinoise" />
 	<meta name="keywords" content="detente, bien être, medecine chinoise, medecine chinoise traditionnelle, massages, massage relaxant, anti-stress, medecine douce" />
 <?php include('inc/meta.php'); ?>
@@ -53,7 +53,7 @@
 					<p style="text-align: justify;">
 					Chloé Castelnau, praticienne de Médecine Traditionnelle Chinoise (MTC), titulaire du Dipôme					
 					National de MTC (DNMTC) délivré par la Fédération Nationale de MTC, vous accueille					
-					tous les vendredi et samedi, sur RDV à l'Allée du Bio.	<br>				
+					tous les vendredi et samedi, sur RDV à l'Le Nadalou.	<br>				
 										
 					Vous y trouverez, au delà d'un bilan énergétique, des outils afin de réguler votre mécanisme					
 					énergétique. La première séance nous permettant de faire un constat, le suivi quant à lui					

@@ -10,7 +10,7 @@ $goldbook = null;
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Allée du Bio: Livre d'or</title>
+	<title>Le Nadalou: Livre d'or</title>
 	<meta name="description" content="Consulter les avis, les remarqeus et les commentaires des clients et des internautes" />
 	<meta name="keywords" content="livre d'or, avis, remarques, informations, information" />
 <?php include('inc/meta.php'); ?>
@@ -61,7 +61,7 @@ $goldbook = null;
 		</form>
 	</div>
 	<div class="large-7 medium-7 small-12 columns">
-		<h1>Le Livre d'or Allée du Bio</h1>
+		<h1>Le Livre d'or Le Nadalou</h1>
 		<p>Retrouvez ici les témoignages de nos adhérents</p>
 			<div style=";border-bottom : 4px ridge white;padding:0px 4px 4px 4px; " >
 			</div>

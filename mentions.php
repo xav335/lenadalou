@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Allée du Bio:Mentions légales</title>
+	<title>Le Nadalou:Mentions légales</title>
 	<meta name="description" content="mentions du site internet" />
 	<meta name="keywords" content="mentions légales" />
 	
@@ -39,7 +39,7 @@
 				<p>En accédant au présent site et aux informations qu’il contient,
 					l’utilisateur reconnaît avoir pris connaissance des présentes
 					conditions générales d’utilisation et s’engage à les
-					respecter.Allée du Bio se réserve le droit de modifier la présente
+					respecter.Le Nadalou se réserve le droit de modifier la présente
 					notice à tout moment et notamment afin de l’adapter aux évolutions
 					du site.L’utilisateur s’engage donc à consulter la présente notice
 					régulièrement. L’utilisateur est réputé accepter cette dernière
@@ -55,7 +55,7 @@
 					site. Dans ce cas, cette interruption sera notifiée au moyen d’un
 					avertissement figurant sur la page d’accueil ou par tout autre
 					procédé. Cette interruption ne peut en aucun cas engager la
-					responsabilité de Allée du Bio et n’ouvre droit à aucune indemnité.</p>
+					responsabilité de Le Nadalou et n’ouvre droit à aucune indemnité.</p>
 				<p>
 					<strong>Tarifications</strong>
 				</p>
@@ -74,7 +74,7 @@
 					modifier, d’altérer ou de supprimer frauduleusement les contenus
 					accessibles via le site et d’introduire frauduleusement des données
 					sur le site.</p>
-				<p>En conséquence, Allée du Bio :</p>
+				<p>En conséquence, Le Nadalou :</p>
 				<p>– ne saurait être tenu responsable des dommages qui pourraient
 					éventuellement être subis, à l’occasion d’une visite sur son site,
 					par l’environnement technique de l’utilisateur et notamment, ses
@@ -103,7 +103,7 @@
 					Le présent site et l’ensemble des éléments y figurant
 					(informations, données, texte, sons, images, dessins, graphismes,
 					signes distinctifs, logos, marques,?) sont la propriété exclusive
-					de Allée du Bio.</p>
+					de Le Nadalou.</p>
 				<p>L’ensemble de ces éléments est soumis aux dispositions du Code de
 					la propriété intellectuelle et, à ce titre, est protégé contre
 					toute utilisation non autorisée par la loi ou les présentes

@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Allée du Bio: page introuvable</title>
+	<title>Le Nadalou: page introuvable</title>
 	<meta name="description" content="mentions du site internet" />
 	<meta name="keywords" content="mentions légales" />
 	

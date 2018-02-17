@@ -27,12 +27,12 @@ if ($_POST["action"] == "sendMail") {
 		exit();
 	}
 
-	$_to = "contact@alleedubio.fr";
-	//$_to = "fjavi.gonzalez@gmail.com";
-	$sujet = "Allée du bio - Nv message Livre d'or ";
+	//$_to = "contact@gite-lenadalou.com";
+	$_to = "fjavi.gonzalez@gmail.com";
+	$sujet = "Le Nadalou - Nv message Livre d'or ";
 	//echo "Envoi du message à " . $_to . "<br>";
 		
-	$entete = "From:AlleeDuBio <contact@alleedubio.fr>\n";
+	$entete = "From:LeNadalou <contact@gite-lenadalou.com>\n";
 	$entete .= "MIME-version: 1.0\n";
 	$entete .= "Content-type: text/html; charset= iso-8859-1\n";
 	$entete .= "Bcc: fjavi.gonzalez@gmail.com,xav335@hotmail.com\n";

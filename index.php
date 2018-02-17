@@ -73,8 +73,9 @@ if (!empty($result2)) {
 		</div>
 		<div class="large-6 medium-6 small-12 columns">
 			<br><br><br>
-			<a href="img/lenadalou6.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou6.jpg" alt="" /></a>&nbsp;
 			<a href="img/lenadalou2.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou2.jpg" alt="" /></a>&nbsp;
+			<a href="img/lenadalou6.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou6.jpg" alt="" /></a>&nbsp;
+			
 			<a href="img/lenadalou4.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou4.jpg" alt="" /></a>
 		</div>
 	</div>

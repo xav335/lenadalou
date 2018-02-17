@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Allée du Bio - Alimentation, cosmétiques et compléments alimentaires</title>
+	<title>Le Nadalou - Alimentation, cosmétiques et compléments alimentaires</title>
 <?php include('inc/meta.php'); ?>
 </head>
 <body>
