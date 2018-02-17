@@ -47,7 +47,8 @@ if (!empty($result2)) {
 
 	
 	<div class="row encart">
-	      <h2>Location gîte à Monceaux-sur-Dordogne en Corrèze pour 6&nbsp;personnes</h2>
+	      <h2>Gîte à Monceaux-sur-Dordogne en Corrèze</h2>
+	      <h4>Location pour 6&nbsp;personnes</h4>
 	      <img src="img/lenadalou.jpg" alt="" />
 	      
 		<div class="large-6 medium-6 small-12 columns">&nbsp;
@@ -59,24 +60,29 @@ if (!empty($result2)) {
  
                 Bénéficiant de la qualification gîte de pêche, il est situé à moins d'un kilomètre de 
                 la rivière La Dordogne et à proximité d'autres rivières, lacs, gorges et nombreux barrages, 
-                ce qui séduira les passionnés de pêche à la mouche et aux carnassiers. Un paradis pour les pêcheurs !!! <br><br>
+                ce qui séduira les passionnés de pêche à la mouche et aux carnassiers. Un paradis pour les pêcheurs&nbsp;!!! 
 ​
-                Cette location saisonnière dispose de trois chambres, d'une salle à manger avec cheminée équipée d'un poêle à bois,
-                 d'une cuisine indépendante, ainsi que d'une grande terrasse donnant sur un parc familial de 5000 m2 au milieu d'un écrin
-                  de verdure. Vous serez bercés par les clapotis du petit ruisseau passant au pied de la maison.<br><br>
- 
-                <b>Cette nature douce et sauvage n'attend plus que vous...</b>
 						
 			</p>
         		<a href="img/lenadalou3.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou3.jpg" alt="" /></a>&nbsp;
+        		<a href="img/lenadalou4.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou4.jpg" alt="" /></a>&nbsp;
         		<a href="img/lenadalou5.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou5.jpg" alt="" /></a>
 		</div>
 		<div class="large-6 medium-6 small-12 columns">
 			<br><br><br>
 			<a href="img/lenadalou2.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou2.jpg" alt="" /></a>&nbsp;
+			<p><br>
+​
+                Cette location saisonnière dispose de trois chambres, d'une salle à manger avec cheminée équipée d'un poêle à bois,
+                 d'une cuisine indépendante, ainsi que d'une grande terrasse donnant sur un parc familial de 5000 m2 au milieu d'un écrin
+                  de verdure. Vous serez bercés par les clapotis du petit ruisseau passant au pied de la maison.<br><br>
+ 
+                <h5>Cette nature douce et sauvage n'attend plus que vous...</h5>
+                <br><br>
+                <a href="https://goo.gl/1sBKfq" class="bt-plus-rose" target="_blank">Réserver le gîte ici</a>
+						
 			<a href="img/lenadalou6.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou6.jpg" alt="" /></a>&nbsp;
-			
-			<a href="img/lenadalou4.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou4.jpg" alt="" /></a>
+			<a href="img/lenadalou7.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou7.jpg" alt="" /></a>
 		</div>
 	</div>
 

@@ -4,11 +4,11 @@
 			<div class="large-3 medium-3 small-3 columns">
 				<a href="/">Accueil</a>
 				<a href="qsn.php">Le Nadalou</a>
-				<a href="produit.php">Sport et Nature</a>
-				<a href="bienetre.php">Patrimoine</a>
+				<a href="activites.php">Sport et Nature</a>
+				<a href="patrimoine.php">Patrimoine</a>
 				<a href="actualites.php">Evèvements</a>
 				<a href="goldbook.php">Livre d’or</a>
-				<a href="contact.php">Réservation</a>
+				<a href="contact.php">Contact</a>
 				<a href="mentions.php">mentions légales</a>
 			</div>
 			<div class="large-6 medium-6 small-6 columns">

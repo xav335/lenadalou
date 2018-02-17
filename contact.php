@@ -23,7 +23,7 @@
 					 19400 MONCEAUX SUR DORDOGNE<br>
 					 tél. <b>05 55 28 06 44 - 06 62 26 67 96</b><br>
 				</p>
-				
+				 <a href="https://goo.gl/1sBKfq" class="bt-plus" target="_blank">Réserver le gîte ici</a>
 			</div>
 			<div class="large-4 medium-4 small-4 columns">
 				<a href="<?php echo $pdf ?>" target="_blank"><img src="/img/proprio.jpg"  alt=""  /></a>
