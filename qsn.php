@@ -58,7 +58,7 @@ if (!empty($result2)) {
     <!-- Generator: Jssor Slider Maker -->
     <!-- Source: https://www.jssor.com -->
     <script src="js/jssor.slider-27.0.4.min.js" type="text/javascript"></script>
-    <script type="text/javascript" src="js/Jssor/jssor_init.js" >
+    <script type="text/javascript" >
     jssor_1_slider_init = function() {
 
         var jssor_1_SlideshowTransitions = [
