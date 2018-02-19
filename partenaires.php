@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Le Nadalou: Contact - Plan d'accès</title>
+	<title>Le Nadalou: Nos partenaires</title>
 	<meta name="description" content="Contactez nous ! retrouvez nous sur Facebook !" />
 	<meta name="keywords" content="contact, plan, facebook, formulaire de contact, telephone, email, adresse" />
 <?php include('inc/meta.php'); ?>

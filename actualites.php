@@ -13,7 +13,7 @@ if (!empty($_GET)){
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Le Nadalou: Actualité du magasin</title>
+	<title>Le Nadalou: Evenements - Actualités</title>
 	<meta name="description" content="Consulter les actualités, les promos et les évènements de la boutique alimentaire" />
 	<meta name="keywords" content="actualité, actualités, évènements, promos, promo, informations, information" />
 <?php include('inc/meta.php'); ?>

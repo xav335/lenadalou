@@ -28,7 +28,7 @@ if (!empty($result)) {
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-	<title>Le Nadalou : Tous nos produits bio</title>
+	<title>Le Nadalou : Le patrimoine</title>
 	<meta name="description" content="consultez nos produits alimentaire, cosmétiques" />
 	<meta name="keywords" content="Alimentation, cosmétiques, légumes bio, fruits bio, épicerie, légumes bio, complément alimentaire, elixir floral, huile essencielle, huile végétale, huile florale, pain, pains, plante médicinale, propolis, montignac, propolis, solgar, atelier bio, bien être ,compléments alimentaires ,huiles essentielles ,aloe arborescens ,bio ,ladrome ,silicium ,pain bio ,commerce bio ,argent colloïdal ,fleur de bach ,quinton ,produits ayourvediques ,encens, seve de bouleau" />
 <?php include('inc/meta.php'); ?>
