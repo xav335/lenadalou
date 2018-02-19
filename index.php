@@ -42,8 +42,6 @@ if (!empty($result2)) {
 <body>
 	
 <?php include('inc/header.php'); ?>
-	
-	
 
 	
 	<div class="row encart">
@@ -65,8 +63,7 @@ if (!empty($result2)) {
 						
 			</p>
         		<a href="img/lenadalou3.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou3.jpg" alt="" /></a>&nbsp;
-        		<a href="img/lenadalou4.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou4.jpg" alt="" /></a>&nbsp;
-        		<a href="img/lenadalou5.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou5.jpg" alt="" /></a>
+        		
 		</div>
 		<div class="large-6 medium-6 small-12 columns">
 			<br><br><br>
@@ -81,8 +78,7 @@ if (!empty($result2)) {
                 <br><br>
                 <a href="https://goo.gl/1sBKfq" class="bt-plus-rose" target="_blank">Voir les disponibilité et réserver le gîte ici</a>
 						
-			<a href="img/lenadalou6.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou6.jpg" alt="" /></a>&nbsp;
-			<a href="img/lenadalou7.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou7.jpg" alt="" /></a>
+			
 		</div>
 	</div>
 
@@ -252,46 +248,23 @@ if (!empty($result2)) {
                 <img data-u="image" src="img/index/9-ori.jpg" />
                 <img data-u="thumb" src="img/index/9-thumb.jpg" />
             </div>
-<!--              <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/11-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/11-thumb.jpg" /> -->
-<!--             </div> -->
-<!--             <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/12-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/12-thumb.jpg" /> -->
-<!--             </div> -->
-<!--            <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/13-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/13-thumb.jpg" /> -->
-<!--             </div> -->
-<!--             <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/14-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/14-thumb.jpg" /> -->
-<!--             </div> -->
-<!--             <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/15-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/15-thumb.jpg" /> -->
-<!--             </div> -->
-<!--             <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/16-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/16-thumb.jpg" /> -->
-<!--             </div> -->
-<!--             <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/17-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/7-thumb.jpg" /> -->
-<!--             </div> -->
-<!--             <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/18-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/18-thumb.jpg" /> -->
-<!--             </div> -->
-<!--             <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/19-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/9-thumb.jpg" /> -->
-<!--             </div> -->
-<!--              <div data-p="150.00"> -->
-<!--                 <img data-u="image" src="img/index/20-ori.jpg" /> -->
-<!--                 <img data-u="thumb" src="img/index/20-thumb.jpg" /> -->
-<!--             </div> -->
+             <div data-p="150.00">
+                <img data-u="image" src="img/index/11-ori.jpg" />
+                <img data-u="thumb" src="img/index/11-thumb.jpg" />
+            </div>
+            <div data-p="150.00">
+                <img data-u="image" src="img/index/12-ori.jpg" />
+                <img data-u="thumb" src="img/index/12-thumb.jpg" />
+            </div>
+           <div data-p="150.00">
+                <img data-u="image" src="img/index/13-ori.jpg" />
+                <img data-u="thumb" src="img/index/13-thumb.jpg" />
+            </div>
+            <div data-p="150.00">
+                <img data-u="image" src="img/index/14-ori.jpg" />
+                <img data-u="thumb" src="img/index/14-thumb.jpg" />
+            </div>
+            
         </div>
         <!-- Thumbnail Navigator -->
         <div data-u="thumbnavigator" class="jssort101" style="position:absolute;left:0px;bottom:0px;width:980px;height:100px;background-color:#000;" data-autocenter="1" data-scale-bottom="0.75">
@@ -326,6 +299,20 @@ if (!empty($result2)) {
     <!-- #endregion Jssor Slider End -->
 	
 	
+	<div class="row encart">
+	      
+		<div class="large-6 medium-6 small-12 columns">
+			
+        		<a href="img/lenadalou4.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou4.jpg" alt="" /></a>&nbsp;
+        		<a href="img/lenadalou5.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou5.jpg" alt="" /></a>
+		</div>
+		<div class="large-6 medium-6 small-12 columns">
+			
+						
+			<a href="img/lenadalou7.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou7.jpg" alt="" /></a>&nbsp;
+			<a href="img/lenadalou6.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou6.jpg" alt="" /></a>
+		</div>
+	</div>
 	
 <?php include('inc/footer.php'); ?>
 	<script>
