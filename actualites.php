@@ -24,7 +24,7 @@ if (!empty($_GET)){
 	
 	<!-- Actualités -->
 	<div class="row actualites">
-		<h1>Actualités</h1>
+		<h1>Evènements</h1>
 		
 		<?php 
 			if (!empty($result)) {
@@ -32,7 +32,7 @@ if (!empty($_GET)){
 				foreach ($result as $value) { 
 				$i++;
 				?>
-				<div class="row">
+				<div class="row" style="border-bottom: 1px solid #61a141;">
 					<div class="large-3 medium-4 small-12 columns">
 						<a href="photos/news<?php echo $value['image1']?>" class="fancybox"><img src="photos/news/thumbs<?php echo $value['image1']?>"  alt="" style="max-width: 220px; padding: 20px 20px 20px 20px; " /></a>
 					</div>
@@ -42,7 +42,7 @@ if (!empty($_GET)){
 							<?php echo nl2br($value['contenu'])?>
 						</p>
 						<?php if (!empty($value['accroche'])) {?>
-							<a href="<?php echo $value['accroche']?>" class="bt-plus">en savoir +</a>
+							<a href="<?php echo $value['accroche']?>" class="bt-plus" target="_blank">en savoir +</a>
 						<?php } ?>
 					</div>
 					

@@ -51,7 +51,7 @@ button, input {font-family:inherit;}
 /* Fin Footer */
 
 /* Contenu page */
-.encart, .contact, .actualites {background:rgba(255,255,255,0.78);padding-left:1rem;padding-top:2.8125rem;padding-bottom:2.8125rem;margin-top:1rem;margin-bottom:1.2rem;}
+.encart, .contact, .actualites {background:rgba(255,255,255,0.78);padding-right:1rem;padding-left:1rem;padding-top:2.8125rem;padding-bottom:2.8125rem;margin-top:1rem;margin-bottom:1.2rem;}
 .produit {padding-top:2.8125rem;padding-bottom:2.8125rem;margin-top:1rem;margin-bottom:1.2rem;}
 .produit h2 {font-size:1rem;}
 .produit .row:nth-child(2n) {background:#C53423;}

@@ -79,7 +79,7 @@ if (!empty($result2)) {
  
                 <h5>Cette nature douce et sauvage n'attend plus que vous...</h5>
                 <br><br>
-                <a href="https://goo.gl/1sBKfq" class="bt-plus-rose" target="_blank">Réserver le gîte ici</a>
+                <a href="https://goo.gl/1sBKfq" class="bt-plus-rose" target="_blank">Voir les disponibilité et réserver le gîte ici</a>
 						
 			<a href="img/lenadalou6.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou6.jpg" alt="" /></a>&nbsp;
 			<a href="img/lenadalou7.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/lenadalou7.jpg" alt="" /></a>

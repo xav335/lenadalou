@@ -30,6 +30,19 @@
 			
 		</div>
 		
+		<div class="row " style="border-bottom: 1px solid #61a141;padding-right: 35px;padding-bottom: 20px;">
+			
+			<div class="large-8 medium-6 small-12 columns" style="padding-left: 30px;"><br>
+				<h2><a href="https://www.vallee-dordogne.com/"  target="_blank">Office du tourisme</a></h2>
+				<p style="text-align: justify;">
+					Afin d'avoir une liste exhaustive de toutes les activités que vous pouvez trouver autour du gîte, Visitez le site internet de l'office du tourisme de la Vallée de la Dordogne.
+				</p>
+				 <img alt="" src="img/logoOTourisme.png" style="max-width: 120px;">
+				<a href="https://www.vallee-dordogne.com/"  target="_blank" class="bt-plus">Allez sur le site</a>
+			</div>
+			
+		</div>
+		
 </div>	
 	
 <?php include('inc/footer.php'); ?>

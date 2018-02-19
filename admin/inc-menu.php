@@ -10,15 +10,7 @@
                 	</div>
                 	<div class="col-md-6 collapse navbar-collapse">
 	           			<ul class="nav navbar-nav">
-	           				<li class="dropdown">
-					          	<a href="produit-list.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Produits<span class="caret"></span></a>
-					          	<ul class="dropdown-menu" role="menu">
-					            	<li><a href="catproduct-list.php">Catégories</a></li>
-					          		<li class="divider"></li>
-					            	<li><a href="product-edit.php">Ajout Produits</a></li>
-					            	<li><a href="product-list.php">Modif / Suppr</a></li>
-					          	</ul>
-					        </li>
+	           				
 	           				<li class="dropdown">
 					          	<a href="news-list.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Actualités <span class="caret"></span></a>
 					          	<ul class="dropdown-menu" role="menu">
@@ -33,12 +25,7 @@
 					            	<li><a href="goldbook-list.php">Modif / Suppr</a></li>
 					          	</ul>
 					        </li>
-					         <li class="dropdown">
-					          	<a href="bdc.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Bon de commande <span class="caret"></span></a>
-					          	<ul class="dropdown-menu" role="menu">
-					            	<li><a href="planning.php">Modification</a></li>
-					          	</ul>
-					        </li>
+					        
 	                    </ul>
                     </div> 
                     <div class="col-md-2 collapse navbar-collapse">
