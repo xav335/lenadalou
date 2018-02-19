@@ -44,7 +44,7 @@ button, input {font-family:inherit;}
 .footer {clear:both;color:#fff;font-size:1.125rem;text-align:center;padding-top:2rem;margin-top:3rem;}
 .footer:after {display:block;height:8.31rem;}
 .footer .logo-ab {position:absolute;right:3.75rem;margin-top:-2.5rem;}
-.footer .telephone {color:#fffc00;font-size:1.875rem;}
+.footer .telephone {color:#fffc00;font-size:1.3rem; text-align: center;}
 .footer p {margin-bottom:0;}
 .footer a {display:block;font-size:0.9375rem;color:#fff;}
 .footer a:hover {color:#000;}
