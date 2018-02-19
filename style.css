@@ -110,7 +110,7 @@ button, input {font-family:inherit;}
 	.header ul li {padding:0 0.45em;line-height: 2em;}
 	.header ul li a {font-size:0.8rem;}
 	.header .logo {width:70%;margin-top:2rem;}
-	.header .logo-ab, .footer .logo-ab {right: 1.75em;}
+	.header .logo-ab, 
 	.products-list:nth-child(3n-4) {margin-top:1.8rem;}
 	.products-list:nth-child(2n-4) {margin-top:3rem;}
 	.products-list:nth-child(4n) {clear:none;}

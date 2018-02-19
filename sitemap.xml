@@ -6,77 +6,57 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://www.alleedubio.fr/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.alleedubio.fr/qsn.php</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.alleedubio.fr/activites.php</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/qsn.php</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.alleedubio.fr/patrimoine.php</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/activites.php</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.alleedubio.fr/actualites.php</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/patrimoine.php</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.alleedubio.fr/goldbook.php</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/actualites.php</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.alleedubio.fr/contact.php</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/goldbook.php</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.alleedubio.fr/photos/bdc/BonDeCommande-20150223.pdf</loc>
-  <lastmod>2015-02-23T16:20:33+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/contact.php</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.alleedubio.fr/mentions.php</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/index.php</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.alleedubio.fr/produit-detail.php?categorie=39</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/mentions.php</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.alleedubio.fr/produit-detail.php?categorie=38</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.gite-lenadalou.com/partenaires.php</loc>
+  <lastmod>2018-02-19T15:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<url>
-  <loc>http://www.alleedubio.fr/produit-detail.php?categorie=40</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.alleedubio.fr/produit-detail.php?categorie=37</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.alleedubio.fr/produit-detail.php?categorie=35</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.alleedubio.fr/produit-detail.php?categorie=1</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>google
-  <loc>http://www.alleedubio.fr/produit-detail.php?categorie=13</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.alleedubio.fr/produit-detail.php?categorie=4</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.alleedubio.fr/produit-detail.php?categorie=36</loc>
-  <changefreq>monthly</changefreq>
-</url>
+
+
 </urlset>
