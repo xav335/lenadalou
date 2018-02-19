@@ -202,6 +202,7 @@ if (!empty($result2)) {
         .jssort101 .t {position:absolute;top:0;left:0;width:100%;height:100%;border:none;opacity:.6;}
         .jssort101 .pav .t, .jssort101 .p:hover .t{opacity:1;}
     </style>
+     <div class="row encart">
     <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:480px;overflow:hidden;visibility:hidden;">
         <!-- Loading Screen -->
         <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
@@ -294,6 +295,7 @@ if (!empty($result2)) {
                 <line class="a" x1="5426.1" y1="8000" x2="10573.9" y2="8000"></line>
             </svg>
         </div>
+    </div>
     </div>
     <script type="text/javascript">jssor_1_slider_init();</script>
     <!-- #endregion Jssor Slider End -->

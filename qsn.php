@@ -62,8 +62,8 @@ if (!empty($result2)) {
     <link rel="stylesheet" href="js/Jssor/jssor.css" />    
         
 
-
-    <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:960px;height:480px;overflow:hidden;visibility:hidden;background-color:#24262e;">
+    <div class="row encart">
+    <div class="encart" id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:960px;height:480px;overflow:hidden;visibility:hidden;background-color:#24262e;">
         <!-- Loading Screen -->
         <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
             <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="img/spin.svg" />
@@ -179,16 +179,11 @@ if (!empty($result2)) {
             </svg>
         </div>
     </div>
+    </div>
     <script type="text/javascript">jssor_1_slider_init();</script>
     <!-- #endregion Jssor Slider End -->
 	
 	
-	
-
-	
-	<div class="row encart">
-	      
-	</div>
 
 	
 <?php include('inc/footer.php'); ?>
