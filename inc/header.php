@@ -20,7 +20,7 @@
 	<div class="row fullwidth header">
 		<div class="row content">
 			<span id="date2"> &nbsp; </span>
-			<a href="https://www.facebook.com/pg/gitelenadalou/photos/?ref=page_internal" target="_BLANK"><img src="img/logo-fb.png" alt="" class="logo-fb" title="Facebook" /></a>
+			<a href="https://www.facebook.com/pg/gitelenadalou/" target="_BLANK"><img src="img/logo-fb.png" alt="" class="logo-fb" title="Facebook" /></a>
 			<a href="https://www.gites-de-france.com/location-vacances-Monceaux-sur-dordogne-Gite-Le-Nadalou-19G5189.html" target="_BLANK"><img src="img/logo-ab.png" alt="" class="logo-ab" title="Gîtes de france" /></a>
 			<ul>
 				<li><a href="/">Accueil</a></li><li><a href="qsn.php">Le Nadalou</a></li><li><a href="activites.php">Sport et Nature</a></li><li><a href="patrimoine.php">Patrimoine</a></li><li><a href="actualites.php">Evènements</a></li><li><a href="goldbook.php">Livre d’or</a></li><li><a href="contact.php">Contact</a></li>

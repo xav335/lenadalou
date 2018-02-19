@@ -85,9 +85,9 @@
 			<img src="img/facebooklogo.png" alt="" />
 			<p>
 				Toutes les nouvelles, les évenements et les infos de dernières minutes.
-				<div class="fb-like" data-href="https://www.facebook.com/pg/gitelenadalou/photos/?ref=page_internal" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+				<div class="fb-like" data-href="https://www.facebook.com/pg/gitelenadalou/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 			</p>
-			<a class="suite" target="_blank" href="https://www.facebook.com/pg/gitelenadalou/photos/?ref=page_internal"><img src="img/facebooksmall.png" alt="" />  Visitez notre page Facebook</a>
+			<a class="suite" target="_blank" href="https://www.facebook.com/pg/gitelenadalou/"><img src="img/facebooksmall.png" alt="" />  Visitez notre page Facebook</a>
 		</div>	
 		<div class="actualites" style="margin-top: 0px;padding-left: 15px;padding-right: 15px;">
 			<h2>Liens partenaires</h2>

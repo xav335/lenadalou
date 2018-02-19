@@ -48,7 +48,7 @@ if (!empty($result2)) {
 	      <h2>Le Nadalou</h2>
 	      <h4>Location pour 6&nbsp;personnes</h4>
 	      <p><br>
-				3 chambres (2 0 l'étage, un lit 2 place + une chambre avec deux lits deux place, 2 salles de bains) <br><br>
+				3 chambres (2 à l'étage, un lit 2 place + une chambre avec deux lits deux place, 2 salles de bains) <br><br>
 				<a href="https://goo.gl/1sBKfq" class="bt-plus" target="_blank">Voir la description sur gîte de france.</a>
 						
 			</p>
