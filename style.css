@@ -110,12 +110,14 @@ button, input {font-family:inherit;}
 	.header ul li {padding:0 0.45em;line-height: 2em;}
 	.header ul li a {font-size:0.8rem;}
 	.header .logo {width:70%;margin-top:2rem;}
-	.header .logo-ab, 
+	.header .logo-ab {width:25%;}
+	.footer .logo-ab {right:1.75em;width:70%;}
 	.products-list:nth-child(3n-4) {margin-top:1.8rem;}
 	.products-list:nth-child(2n-4) {margin-top:3rem;}
 	.products-list:nth-child(4n) {clear:none;}
 	.products-list:nth-child(2n-3) {clear:both;}
 	.header .logo-fb {display:none;}
+.footer .pied {display:none;}
 }
 
 @media only screen and (max-width: 30.063em) {
@@ -126,7 +128,7 @@ button, input {font-family:inherit;}
 	.header ul li {padding:0 0.55em;line-height: 2em;}
 	.header ul li a {font-size:0.71rem;}
 	.header .logo {width:90%;margin-top:2rem;}
-	.header .logo-ab {right:1.75em;width:15%;}
+	.header .logo-ab {right:1.75em;width:25%;}
 	.footer .logo-ab {right:1.75em;width:70%;}
 	.products-list:nth-child(3n-4) {margin-top:1.8rem;}
 	.products-list:nth-child(2n-4) {margin-top:3rem;}
@@ -135,6 +137,7 @@ button, input {font-family:inherit;}
 	.encart div, .encart img, .produit div, .produit img, .contat div, .contact img {width:100%;}
 	.produit .thumb div {width:33.33333%;}
 .header .logo-fb {display:none;}
+.footer .pied {display:none;}
 }
 
 @media only screen and (max-width: 20.063em) {
@@ -146,13 +149,14 @@ button, input {font-family:inherit;}
 	.header ul li {padding:0 0.70em;line-height: 2em;}
 	.header ul li a {font-size:0.71rem;}
 	.header .logo {width:100%;margin-top:2rem;}
-	.header .logo-ab {right:1.75em;width:15%;}
-	.footer .logo-ab {right:1.75em;width:70%;}
+	.header .logo-ab {right:1.75em;width:25%;}
+	.footer .logo-ab {right:1.75em;width:50%;}
 	.footer div:first-child, .footer div:last-child {display:none;}
 	.footer div {width:100%;}
 	.products-list {clear:both!important;margin-top:1.8rem!important;float:none!important;width:100%;}
 	.actualites .row div {width:100%;}
 	.footer a {color:#fffc00;font-size:1.875rem;}
 .header .logo-fb {display:none;}
+	.footer .pied {display:none;}
 }
 /* Fin Responsive */
