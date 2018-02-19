@@ -225,7 +225,7 @@ CREATE TABLE `news` (
 
 LOCK TABLES `news` WRITE;
 /*!40000 ALTER TABLE `news` DISABLE KEYS */;
-INSERT INTO `news` VALUES (42,'2017-07-12 00:00:00','Fermeture exceptionnelle','','Le gîte sera fermé le vendredi 14 juillet ainsi que le samedi 15 juillet 2017.','/logo-42.png',0),(45,'2018-02-28 00:00:00','Atelier Poterie','','Pendant toutes la période estivale, vous pouvez visiter et participer à des ateliers de poterie','/image_8_-.jpg',0),(46,'2018-02-15 00:00:00','Visitez les animaux de la ferme','','','/K1024_15.jpg (2)-.jpg',0);
+INSERT INTO `news` VALUES (45,'2018-02-28 00:00:00','Atelier Poterie','','Pendant toutes la période estivale, vous pouvez visiter et participer à des ateliers de poterie','/image_8_-.jpg',0),(46,'2018-02-15 00:00:00','Visitez les animaux de la ferme','','Visite prévue pour les enfants et les adultes','/K1024_15.jpg (2)-.jpg',0);
 /*!40000 ALTER TABLE `news` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -375,4 +375,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-02-17 18:08:22
+-- Dump completed on 2018-02-19 15:08:56
