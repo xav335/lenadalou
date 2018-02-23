@@ -118,6 +118,7 @@ button, input {font-family:inherit;}
 	.products-list:nth-child(2n-3) {clear:both;}
 	.header .logo-fb {display:none;}
 .footer .pied {display:none;}
+.logopeche {width:25%;}
 }
 
 @media only screen and (max-width: 30.063em) {
@@ -138,6 +139,7 @@ button, input {font-family:inherit;}
 	.produit .thumb div {width:33.33333%;}
 .header .logo-fb {display:none;}
 .footer .pied {display:none;}
+.logopeche {display:none;}
 }
 
 @media only screen and (max-width: 20.063em) {
@@ -158,5 +160,10 @@ button, input {font-family:inherit;}
 	.footer a {color:#fffc00;font-size:1.875rem;}
 .header .logo-fb {display:none;}
 	.footer .pied {display:none;}
+.logopeche {display:none;}
 }
 /* Fin Responsive */
+
+
+
+

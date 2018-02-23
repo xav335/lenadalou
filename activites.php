@@ -37,17 +37,16 @@ if (!empty($result)) {
 	
 <?php include('inc/header.php'); ?>
             	<div class="row actualites">
-            			<div class="large-8 medium-8 small-12 columns ">
-            				<h1>Activités sportive et nature</h1>
-            				<h5></h5>
-            				<p>
-            				    Aux alentours du gîtes, vous trouverez une très grande variétés d'activités ludiques et sportives.
-            				</p>
-            				
-            			</div>	
-            			<div class="large-4 medium-4 small-12 columns ">
-            				<a href="img/sallebienetre.jpg" class="fancybox" ><img src="img/sallebienetre.jpg"  alt="" /></a> 
-            			</div>
+            	         <div class="large-10 medium-10 small-12 columns">
+                    	      <h1>Loisirs et découverte</h1>
+                    	      <p>
+            				    Notre belle campagne Corrézienne vous propose de nombreuses activités. 
+            				    </p>
+                    	  </div>
+                    	   <div class="large-2 medium-2 small-12 columns logopeche">  
+    	                       <img src="img/peche.png"  alt=""   />&nbsp;
+	                       </div>
+            			
             	</div>
 	
 	
@@ -55,11 +54,11 @@ if (!empty($result)) {
 					<br>
 					
 					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
-						<h2><a href="#" target="_blank">Parc aquatique</a></h2>
+						<h2><a href="#" target="_blank">Loisirs aquatiques</a></h2>
 						<p>
-							A proximité du gîte vous trouverez un très beau centre aquatique arboré, avec de belles piscines, des jeux et des activités très agréables. 
+							A 5kms, dans la petite ville d’Argentat, vous pourrez aller vous baigner au centre aquarécréatif « Le Splash ». Ce complexe comprend plusieurs bassins, des toboggans, une plage ombragée, une aire de pique-nique…
 						</p>
-						<a href="https://goo.gl/T2RzMQ" class="bt-plus" target="_blank">Aller sur le site internet</a>
+						
 					</div>
 					<div class="large-6 medium-6 small-12 columns" >
 						<a href="img/piscine.jpg" class="fancybox" data-fancybox-group="qsn"><img src="img/piscine.jpg"  alt=""  padding: 20px 20px 20px 20px; " /></a>
@@ -74,7 +73,8 @@ if (!empty($result)) {
 					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
 						<h2><a href="#" >Pêche</a></h2>
 						<p>
-							
+							La vallée de la Dordogne, destination de pêche la plus prisée d’Europe, comblera les amateurs et les passionnés. 
+							<br><img src="img/peche.png"  alt=""   />
 						</p>
 					</div>
 				</div>
@@ -83,9 +83,9 @@ if (!empty($result)) {
 					<br>
 					
 					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
-						<h2><a href="#" >Randonnée</a></h2>
+						<h2><a href="#" >Randonnée - Vélo</a></h2>
 						<p>
-							
+							Au départ du gîte, à pieds ou en VTT, vous découvrirez différents parcours au milieu de forêts de champignons et de châtaigniers. Cette nature verdoyante vous apportera une douce quiétude.
 						</p>
 						
 					</div>
@@ -102,7 +102,7 @@ if (!empty($result)) {
 					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
 						<h2><a href="#" >Canyoning - Paddle</a></h2>
 						<p>
-							
+							Si vous le souhaitez, notre belle Dordogne dans son écrin de verdure vous apportera dépaysement et détente, grâce à une large gamme de loisirs aquatiques, tels que le canoë, le stand up paddle, la promenade en gabare et la pêche. 
 						</p>
 						
 					</div>
@@ -112,9 +112,9 @@ if (!empty($result)) {
 					<br>
 					
 					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
-						<h2><a href="#" >Parapente</a></h2>
+						<h2><a href="#" >Parapente - Delta plane</a></h2>
 						<p>
-							
+							Les amateurs de sensations fortes, pourront effectuer des baptêmes de delta plane à Monceaux sur Dordogne ou s’adonner au parcours d’escalade, escalad’arbre, Via Ferrata, tir à l'arc
 						</p>
 						
 					</div>
@@ -131,7 +131,7 @@ if (!empty($result)) {
 					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
 						<h2><a href="#" >Equitation</a></h2>
 						<p>
-							
+							A 2kms du Nadalou, dans le village de Monceaux sur Dordogne, vous trouverez les écuries de Galou qui proposent des balades à cheval et à poney.
 						</p>
 						
 					</div>
@@ -139,9 +139,55 @@ if (!empty($result)) {
 
 	<!-- Fin Actualités -->
 	
+	
+	
+	
+	<div class="row actualites">
+            			<div class="large-12 medium-12 small-12 columns ">
+            				<h1>Découvrez le patrimoine de notre région</h1>
+            				<h5></h5>
+            				<p>
+            				    Aux alentours du gîtes, vous trouverez des sites, des monuments classés et des paysages superbes.
+            				</p>
+            				 <img alt="" src="img/logoOTourisme.png" style="max-width: 120px;">
+            				 <a href="https://goo.gl/85oxh3" class="bt-plus" target="_blank">Office du tourisme</a>
+            			</div>	
+            			
+            	</div>
+	
+	
+	           <div class="row actualites" style="border-bottom: 1px solid #61a141;padding-right: 35px;padding-bottom: 20px;">
+					<br>
+					
+					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
+						<h2><a href="#" target="_blank">Les Quais d'Argentat</a></h2>
+						<p>
+							A proximité du gîte ....
+						</p>
+						
+					</div>
+					<div class="large-6 medium-6 small-12 columns" >
+						<a href="img/argentat.jpg" class="fancybox" data-fancybox-group="patrimoine"><img src="img/argentat.jpg"  alt=""  padding: 20px 20px 20px 20px; " /></a>
+					</div>
+				</div>
+		
+				<div class="row actualites" style="border-bottom: 1px solid #61a141;padding-right: 35px;padding-bottom: 20px;">
+					<br>
+					<div class="large-6 medium-6 small-12 columns" >
+						<a href="img/merle.jpg" class="fancybox" data-fancybox-group="patrimoine"><img src="img/merle.jpg"  alt=""  padding: 20px 20px 20px 20px; " /></a>
+					</div>
+					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
+						<h2><a href="#" >Les Tours de Merle</a></h2>
+						<p>
+							
+						</p>
+					</div>
+				</div>
+				
+	
 <?php include('inc/footer.php'); ?>
 	<script>
-		$('.header ul li:nth-child(3)').addClass('active');
+		$('.header ul li:nth-child(4)').addClass('active');
 	</script>
 	
 </body>

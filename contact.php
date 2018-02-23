@@ -22,6 +22,7 @@
 					 Chemin du Malpas <br>
 					 19400 MONCEAUX SUR DORDOGNE<br>
 					 tél. <b>05 55 28 06 44 - 06 62 26 67 96</b><br>
+					 Email: <a href="mailto:gite.lenadalou@orange.fr">gite.lenadalou@orange.fr</a> <br>
 				</p>
 				 <a href="https://goo.gl/1sBKfq" class="bt-plus-rose" target="_blank">Voir les disponibilité et réserver le gîte ici</a>
 			</div>

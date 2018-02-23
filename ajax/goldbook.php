@@ -28,7 +28,7 @@ if ($_POST["action"] == "sendMail") {
 	}
 
 	//$_to = "contact@gite-lenadalou.com";
-	$_to = "fjavi.gonzalez@gmail.com";
+	$_to = "gite.lenadalou@orange.fr";
 	$sujet = "Le Nadalou - Nv message Livre d'or ";
 	//echo "Envoi du message à " . $_to . "<br>";
 		

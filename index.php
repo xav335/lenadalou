@@ -45,8 +45,15 @@ if (!empty($result2)) {
 
 	
 	<div class="row encart">
-	      <h2>Gîte à Monceaux-sur-Dordogne en Corrèze</h2>
-	      <h4>Location pour 6&nbsp;personnes</h4>
+	      <div class="large-9 medium-9 small-12 columns">
+    	      <h2>Gîte à Monceaux-sur-Dordogne en Corrèze</h2>
+    	      <h4>Location pour 6&nbsp;personnes</h4>
+    	  </div>
+    	  <div class="large-3 medium-3 small-12 columns logopeche">  
+                 <a class="fancybox-media" href="https://www.youtube.com/watch?v=WHNVsCogMiU"><img src="img/video.jpg" alt="" /></a>
+           </div>
+    	  
+	      
 	      <img src="img/lenadalou.jpg" alt="" />
 	      
 		<div class="large-6 medium-6 small-12 columns">&nbsp;
