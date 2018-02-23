@@ -50,7 +50,8 @@ if (!empty($result2)) {
 	       Possibilités de tarifs au Week end en dehors de la haute et très haute saison : <br>
                  &nbsp; &nbsp; &nbsp;- pour 2 nuits : 170 euros <br>
                  &nbsp; &nbsp; &nbsp;- pour 3 nuits : 240 euros<br>
-                	      </p>
+          </p>
+          	<a href="https://goo.gl/1sBKfq" class="bt-plus-rose" target="_blank">Voir les disponibilité et réserver le gîte ici</a>
 	      
 		<div style="text-align: center; ">
 			<div class="large-4 medium-4 small-12 columns" style="background-color: #e5eed1; text-align: center; height: 120px">
@@ -139,7 +140,6 @@ if (!empty($result2)) {
 		</div>	
 		
 	</div>
-	
 	
 	
 		
