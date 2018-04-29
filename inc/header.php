@@ -23,7 +23,7 @@
 			<a href="https://www.facebook.com/pg/gitelenadalou/" target="_BLANK"><img src="img/logo-fb.png" alt="" class="logo-fb" title="Facebook" /></a>
 			<a href="https://www.gites-de-france.com/location-vacances-Monceaux-sur-dordogne-Gite-Le-Nadalou-19G5189.html" target="_BLANK"><img src="img/logo-ab.png" alt="" class="logo-ab" title="Gîtes de france" /></a>
 			<ul>
-				<li><a href="/">Accueil</a></li><li><a href="qsn.php">Le Nadalou</a></li><li><a href="tarifs.php">Tarifs</a></li><li><a href="activites.php">Loisirs et Découverte</a></li><li><a href="actualites.php">Evènements</a></li><li><a href="goldbook.php">Livre d’or</a></li><li><a href="contact.php">Contact</a></li>
+				<li><a href="/">Accueil</a></li><li><a href="qsn.php">Le Nadalou</a></li><li><a href="tarifs.php">Tarifs</a></li><li><a href="activites.php">Loisirs et Patrimoine</a></li><li><a href="actualites.php">Evènements</a></li><li><a href="goldbook.php">Livre d’or</a></li><li><a href="contact.php">Contact</a></li>
 			</ul>
 			<div class="large-12 columns">
 				<a href="/index.php"><img src="img/logo-top.png" alt="" class="logo" title="Le Nadalou" /></a>

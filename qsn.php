@@ -53,18 +53,11 @@ if (!empty($result2)) {
 				avec une entrée USB, et d’un lecteur DVD mais aussi de jeux de société pour vous distraire en famille 
 				ou entre amis, d’une cuisine équipée d’un lave vaisselle, d’une gazinière avec four, d’un micro onde, 
 				d’un grand réfrigérateur avec petit congélateur, d’une cafetière à filtre, d’une cafetière à dosette,
-				 d’une bouilloire, d’un batteur, d’un mixeur plongeant, d’un appareil à raclette, et divers ustensiles de cuisine. <br><br>
-				 
-                Vous trouverez également une chambre avec un lit 2 personnes (140) et sa propre salle de douche, un wc indépendant ainsi qu’un lave linge avec étendoir d’intérieur et d’extérieur.<br><br>
+				 d’une bouilloire, d’un batteur, d’un mixeur plongeant, d’un appareil à raclette, et divers ustensiles de cuisine.	
+				 <br><br>
+				 Le Nadalou est équipée pour recevoir les <b>enfants en bas âge</b> (lit à barreau, baignoire, matelas pour le change, chaise haute). Les animaux de compagnie sont acceptés.
 
-                A l’étage, Le Nadalou dispose d’une salle d’eau avec WC, d’une chambre équipée d’un lit double en 140 avec un lit bébé, et d’une deuxième chambre composée de 2 lits (90 et 120).<br><br>
-
-                Pour rejoindre le parc familial, vous emprunterez un terrasse sécurisée surplombant un ruisseau qui vous apportera fraîcheur, sérénité et bien être. Orientée au Sud, elle est équipée d’un salon de jardin, de bains de soleil, de parasol et d’un barbecue.<br><br>
-
-                Doté d’un cadre exceptionnel, l’espace de 5000m2 verdoyant vous livrera ses richesses : terrain de pétanque (jeux de boules à disposition), jeux pour enfants : toboggan, balançoire, face à face, sans oublier les animaux de la ferme que les propriétaires se plairont à vous présenter.<br><br>
-
-                Vous disposerez également d’un petit cabanon pour y mettre des vélos, poussette, matériel de pêche…
-						
+				 	
 			</p>
 	</div>
 	
@@ -304,7 +297,21 @@ if (!empty($result2)) {
     <script type="text/javascript">jssor_1_slider_init();</script>
     <!-- #endregion Jssor Slider End -->
 	
-	
+	<div class="row encart">
+	      <p>
+				
+                Vous trouverez également une chambre avec un lit 2 personnes (140) et sa propre salle de douche, un wc indépendant ainsi qu’un lave linge avec étendoir d’intérieur et d’extérieur.<br><br>
+
+                A l’étage, Le Nadalou dispose d’une salle d’eau avec WC, d’une chambre équipée d’un lit double en 140 avec un lit bébé, et d’une deuxième chambre composée de 2 lits (90 et 120).<br><br>
+
+                Pour rejoindre le parc familial, vous emprunterez un terrasse sécurisée surplombant un ruisseau qui vous apportera fraîcheur, sérénité et bien être. Orientée au Sud, elle est équipée d’un salon de jardin, de bains de soleil, de parasol et d’un barbecue.<br><br>
+
+                Doté d’un cadre exceptionnel, l’espace de 5000m2 verdoyant vous livrera ses richesses : terrain de pétanque (jeux de boules à disposition), jeux pour enfants : toboggan, balançoire, face à face, sans oublier les animaux de la ferme que les propriétaires se plairont à vous présenter.<br><br>
+
+                Vous disposerez également d’un petit cabanon pour y mettre des vélos, poussette, matériel de pêche…
+						
+			</p>
+	</div>
 
 	
 <?php include('inc/footer.php'); ?>

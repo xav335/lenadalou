@@ -86,21 +86,6 @@ if (!empty($result2)) {
 		<div style="text-align: center; ">
 			<div class="large-4 medium-4 small-12 columns" style="background-color: #e5eed1; text-align: center; height: 120px">
 		         &nbsp;
-		          <h4>Moyenne Saison</h4>
-		          370€
-		          <br><br>
-			</div>
-			<div class="large-8 medium-8 small-12 columns " style="background-color: #d7d8d5;height: 120px">
-			<br>
-			    07/04/2018 au 29/06/2018<br>
-                01/09/2018 au 28/09/2018 <br>
-                TOUSSAINT DU 20/10/2018 au 02/11/2018<br>
-			</div>
-		</div>	
-		<HR >
-		<div style="text-align: center; ">
-			<div class="large-4 medium-4 small-12 columns" style="background-color: #e5eed1; text-align: center; height: 120px">
-		         &nbsp;
 		          <h4>Haute Saison</h4>
 		          460€
 		          <br><br>

@@ -43,9 +43,10 @@ if (!empty($result)) {
             				    Notre belle campagne Corrézienne vous propose de nombreuses activités. 
             				    </p>
                     	  </div>
-                    	   <div class="large-2 medium-2 small-12 columns logopeche">  
-    	                       <img src="img/peche.png"  alt=""   />&nbsp;
-	                       </div>
+                    	   <div class="large-3 medium-3 small-12 columns logopeche">  
+                                 <a class="fancybox-media" href="https://www.youtube.com/watch?v=WHNVsCogMiU"><img src="img/video.jpg" alt="" /></a>
+                           </div>
+                    	   
             			
             	</div>
 	
@@ -147,10 +148,14 @@ if (!empty($result)) {
             				<h1>Découvrez le patrimoine de notre région</h1>
             				<h5></h5>
             				<p>
-            				    Aux alentours du gîtes, vous trouverez des sites, des monuments classés et des paysages superbes.
+            				    Aux alentours du gîtes, vous trouverez des sites, des monuments classés et des paysages superbes.<br>
+            				    Découvrez les autres merveilles de notre belle vallée de la Dordogne sur le site de l’ office du tourisme et sur les nombreuses brochures mises à votre disposition au gîte.
+
+            				    
             				</p>
             				 <img alt="" src="img/logoOTourisme.png" style="max-width: 120px;">
             				 <a href="https://goo.gl/85oxh3" class="bt-plus" target="_blank">Office du tourisme</a>
+            				 
             			</div>	
             			
             	</div>
@@ -158,11 +163,10 @@ if (!empty($result)) {
 	
 	           <div class="row actualites" style="border-bottom: 1px solid #61a141;padding-right: 35px;padding-bottom: 20px;">
 					<br>
-					
 					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
 						<h2><a href="#" target="_blank">Les Quais d'Argentat</a></h2>
 						<p>
-							A proximité du gîte ....
+							A proximité du gite le Nadalou, vous pourrez flâner le long des quais d’Argentat où coule notre belle Dordogne, vous installer en terrasse pour déguster des glaces, crêpes ou boire un verre.
 						</p>
 						
 					</div>
@@ -179,11 +183,68 @@ if (!empty($result)) {
 					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
 						<h2><a href="#" >Les Tours de Merle</a></h2>
 						<p>
+							Un site incontournable, qui vous plongera dans le Limousin médiéval…
+                            Une ancienne cité authentique dans une superbe nature préservée où trône ces magnifiques tours.
 							
 						</p>
 					</div>
 				</div>
-				
+				 <div class="row actualites" style="border-bottom: 1px solid #61a141;padding-right: 35px;padding-bottom: 20px;">
+					<br>
+					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
+						<h2><a href="#" target="_blank">Beaulieu-sur-Dordogne</a></h2>
+						<p>
+                            A une vingtaine de minutes du Nadalou,découvrez Beaulieu-sur-Dordogne, ou la rivière rencontre l’histoire…
+                            Et prenez le temps d’apprécier un magnifique couché de soleil sur la rivière.
+						</p>
+						
+					</div>
+					<div class="large-6 medium-6 small-12 columns" >
+						<a href="img/beaulieu.png" class="fancybox" data-fancybox-group="patrimoine"><img src="img/beaulieu.png"  alt=""  padding: 20px 20px 20px 20px; " /></a>
+					</div>
+				</div>
+		
+				<div class="row actualites" style="border-bottom: 1px solid #61a141;padding-right: 35px;padding-bottom: 20px;">
+					<br>
+					<div class="large-6 medium-6 small-12 columns" >
+						<a href="img/coulonge.png" class="fancybox" data-fancybox-group="patrimoine"><img src="img/coulonge.png"  alt=""  padding: 20px 20px 20px 20px; " /></a>
+					</div>
+					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
+						<h2><a href="#" >Les plus beaux villages de France</a></h2>
+						<p>
+                            Dans un rayon de 30kms, visitez quelques villages labellisés « plus beaux villages de France ».
+                            (Collonges-la-rouge, Curemonte, Turenne…)
+						</p>
+					</div>
+				</div>
+				<div class="row actualites" style="border-bottom: 1px solid #61a141;padding-right: 35px;padding-bottom: 20px;">
+					<br>
+					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
+						<h2><a href="#" target="_blank">Curiosités</a></h2>
+						<p>
+							Enchantez les petits et les grands en suivant la route de la noix, pour vivre des expériences et des moments inoubliables à la forêt des singes, au rocher des aigles, mais aussi dans les profondeurs de la terre (gouffre de Padirac, grottes…)</p>
+						
+					</div>
+					<div class="large-6 medium-6 small-12 columns" >
+						<a href="img/padirac.png" class="fancybox" data-fancybox-group="patrimoine"><img src="img/padirac.png"  alt=""  padding: 20px 20px 20px 20px; " /></a>
+					</div>
+				</div>
+		
+				<div class="row actualites" style="border-bottom: 1px solid #61a141;padding-right: 35px;padding-bottom: 20px;">
+					<br>
+					<div class="large-6 medium-6 small-12 columns" >
+						<a href="img/gastro.png" class="fancybox" data-fancybox-group="patrimoine"><img src="img/gastro.png"  alt=""  padding: 20px 20px 20px 20px; " /></a>
+					</div>
+					<div class="large-6 medium-6 small-12 columns" style="padding-left: 30px;">
+						<h2><a href="#" >Gastronomie</a></h2>
+						<p>
+							Notre gastronomie et nos gourmandises Corréziennes, éveilleront vos papilles : chocolat, fraise, noix, miel, pommes, liqueurs aux fruits et baies sauvages, cidre, vin paillé…
+
+                            Tous ces délices, venez les découvrir lors des marchés de producteurs de pays. Tout particulièrement celui de Monceaux sur Dordogne, marché festif placé sous le signe de la convivialité, qui vous permettra en période estivale de consommer sur place les produits du terroir.
+							
+						</p>
+					</div>
+				</div>
 	
 <?php include('inc/footer.php'); ?>
 	<script>

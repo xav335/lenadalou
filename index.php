@@ -49,9 +49,9 @@ if (!empty($result2)) {
     	      <h2>Gîte à Monceaux-sur-Dordogne en Corrèze</h2>
     	      <h4>Location pour 6&nbsp;personnes</h4>
     	  </div>
-    	  <div class="large-3 medium-3 small-12 columns logopeche">  
-                 <a class="fancybox-media" href="https://www.youtube.com/watch?v=WHNVsCogMiU"><img src="img/video.jpg" alt="" /></a>
-           </div>
+    	 <div class="large-2 medium-2 small-12 columns logopeche">  
+    	                       <img src="img/peche.png"  alt=""   />&nbsp;
+	                       </div>
     	  
 	      
 	      <img src="img/lenadalou.jpg" alt="" />
