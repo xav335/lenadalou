@@ -34,7 +34,7 @@ if (empty($result)) {
 	<div class="row">
 		<div class="col-md-8">
 			<h3>Statistiques</h3>
-			<iframe id="laframe" src="http://www.iconeo.fr/awstats/awstats.pl?config=www.iconeo.fr&framename=mainright" style="width:720px;height:500px;" frameborder="1" ></iframe>
+			<iframe id="laframe" src="https://www.gite-lenadalou.com/awstats/awstats.pl?config=www.gite-lenadalou.com&framename=mainright" style="width:720px;height:500px;" frameborder="1" ></iframe>
 		</div>
 		<div class="col-md-4">
 			<div class="panel panel-default">
